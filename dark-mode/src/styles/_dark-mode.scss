@@ -1,6 +1,14 @@
 .dark-mode {
   background: #121212;
 
+  padding: 10%;
+  max-width: auto;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  box-sizing: content-box;
+
   p {
     color: white;
     opacity: 87%;
